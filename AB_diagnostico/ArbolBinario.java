@@ -1,3 +1,4 @@
+package AB_diagnostico;
 public class ArbolBinario {
     Nodo raiz;
 
